@@ -3,7 +3,7 @@
 这是一款通过算法来提速的高速下载器，支持Windows和Mac。
 
 
-新版本已经移除挖矿，依然免费使用！赞助作者维持项目。
+赞助作者维持项目。
 
 微信二维码
 <img src="http://www.qiyuanwang.cn/images/wx.jpeg" width=256 height=256 />

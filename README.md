@@ -1,4 +1,4 @@
-百度网盘不限速下载器 2018年4月19日更新
+百度网盘不限速下载器 2019年2月11日更新
 =================
 这是一款通过算法来提速的高速下载器，支持Windows和Mac。
 
@@ -6,7 +6,7 @@
 新版本已经移除挖矿，依然免费使用！赞助作者维持项目。
 
 微信二维码
-<img src="https://img.hacpai.com/file/2018/04/bd899f8c255645e1aa251865d21ac6ae_2731524121462_pic.jpg" width=256 height=256 />
+<img src="http://www.qiyuanwang.cn/images/wx.jpeg" width=256 height=256 />
 
 效果图
 ----
